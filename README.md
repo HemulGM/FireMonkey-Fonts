@@ -1,5 +1,16 @@
 # FireMonkey-Fonts
-Dynamically Loaded Fonts in Firemonkey on WIndows
+EN: Dynamically Loaded Fonts in FireMonkey on Windows
+
+RU: Динамическая загрузка шрифтов в FireMonkey в Windows
+
+## Instruction/Инструкция
+
+EN: Add a module to the project and throw the necessary fonts into the project resources
+
+RU: Добавить модуль в проект и добавлять нужные шрифты в ресурсы проекта (загружены будут все)
+
+
+## Notes by the author of the original repository / Заметки автора оригинального репозитория
 
 I think I have an answer how to do this, which was only possible because of a LOT of help by Roy Nelson of Embarcadero's support staff who pointed me in the right direction.
 
